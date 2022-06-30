@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomaricKc1
 - 👀 I’m interested in embedded systems and electronics in general
-- 🌱 I’m currently learning wireless embedded technologies and I like Real Time Operating Systems
+- 🌱 I have an MSc in embedded systems and I like Real Time Operating Systems
 - 📫 How to reach me?  soon
 
 <!---
