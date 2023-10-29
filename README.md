@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RomaricKc1
+- Currently, a PhD student
 - 👀 I’m interested in embedded systems and electronics in general
 - 🌱 I have an MSc in embedded systems and I like Real Time Operating Systems
 - 📫 How to reach me?  soon
